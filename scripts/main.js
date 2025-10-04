@@ -19,5 +19,5 @@ document.getElementById('saveGoal').addEventListener('click', function() {
         goalsList.appendChild(goalElement);
                 
         goalInput.value = '';
-    }
+    } 
 });
